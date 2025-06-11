@@ -8,3 +8,6 @@ h2{
 .texto-ingles{
     font-style:italic;
 }
+#nome-usuario{
+    font-weight: bold;
+}
