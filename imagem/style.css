@@ -1,12 +1,13 @@
 body{
     background-color: #305050;
-    color: white
+    color: white;
 }
+
 h2{
-    color:orange;
+    color: orange;
 }
 .texto-ingles{
-    font-style:italic;
+    font-style: italic;
 }
 #nome-usuario{
     font-weight: bold;
